@@ -2,7 +2,8 @@
 import useInput from "../hooks/use-input";
 
 const SimpleInput = (props) => {
-  // testtt
+  // new comment in new features branch
+  // test
   // 6
   const {
     value: enteredName,
