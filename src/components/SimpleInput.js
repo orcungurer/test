@@ -2,7 +2,7 @@
 import useInput from "../hooks/use-input";
 
 const SimpleInput = (props) => {
-  // test
+  // testt
   // 6
   const {
     value: enteredName,
